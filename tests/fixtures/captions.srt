@@ -1,0 +1,7 @@
+1
+00:00:01,250 --> 00:00:03,500
+Everything stays on this device.
+
+2
+00:00:04,000 --> 00:00:06,250
+Edit, save, and export locally.

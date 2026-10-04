@@ -1,0 +1,12 @@
+{
+  "name": "EditDatVid",
+  "short_name": "EditDatVid",
+  "description": "A private, browser-native professional video editor.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

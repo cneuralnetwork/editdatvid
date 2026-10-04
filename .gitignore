@@ -1,0 +1,14 @@
+node_modules
+dist
+.vite
+coverage
+*.log
+*.tsbuildinfo
+test-results
+playwright-report
+outputs
+.claude
+.agents
+.codex
+vite.config.js
+vite.config.d.ts
