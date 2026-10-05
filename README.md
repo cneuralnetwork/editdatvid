@@ -195,6 +195,14 @@ Example Netlify `_headers` file (place in `public/`):
   Cross-Origin-Resource-Policy: same-origin
 ```
 
+### Docker
+
+```bash
+docker compose up --build
+```
+
+Serves the production build via nginx on `http://localhost:8080` with the isolation headers preconfigured.
+
 ## Development
 
 | Command | Purpose |
